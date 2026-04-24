@@ -58,8 +58,8 @@ Integra múltiples tecnologías para ofrecer una solución completa, dinámica y
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/isairey/tu-repo.git
-cd tu-repo
+git clone https://github.com/isairey/Veterinaria.git
+cd Veterinaria
 ```
 
 ---
